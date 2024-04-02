@@ -11,6 +11,8 @@ Project consists of building a cloud enviornment for learning, experimentation, 
 <h2>Azure Resources Used</h2>
 
 - <b>Active subscription for Microsoft Azure</b>
+- <b>Resource Groups</b>
+- <b>Virtual Networks</b>
 - <b>Virtual Machines</b>
 
 <h2>Program walk-through:</h2>
