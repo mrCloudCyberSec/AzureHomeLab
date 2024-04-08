@@ -1,27 +1,37 @@
 <h1>Azure Home Lab</h1>
 
-<h2>Business Summary</h2>
-Project consists of building a cloud enviornment for learning, experimentation, and honing skill sets based on real-world scenarios within Microsoft Azure. Through out the project, there is an assumption that an active Azure subscription has been created.
+<h2>Project Overview</h2>
+
+From March 25th, 2024; Showcasing the ability to create a cloud environment for the purpose of learning, experimention, and honing skill sets within Microsoft Azure.
+
+
+The project consists of building three virtual networks (VNet) and two virtual machines (VM) with best cloud networking topology practices. For the purpose of this project, there is an assumption that a Microsoft Azure Free Trial or Pay-As-You-Go subscription has been created and activated.
 <br />
 
-<h2>Objectives</h2>
+<h2>Project Objectives</h2>
 
-- <b>Configuring virtual networks and connect them via peering</b>
-- <b>Configure a virtual machine for two of the virtual networks</b>
+- <b>Configuring virtual networks</b>
+- <b>Configure two virtual machines</b>
+- <b>Confirm the virtual machines can communicate with each other</b>
 - <b>Secure the perimeter of the Azure Cloud enviornment</b>
 
-<h2>Environments Used </h2>
+<h2>Project Components</h2>
+
+<h3>Cloud Environments Used</h3>
 
 - <b>Microsoft Azure</b>
 
-<h2>Azure Resources Used</h2>
+<h3>Resources Used</h3>
 
-- <b>Active subscription for Microsoft Azure</b>
+- <b>Subscription for Microsoft Azure</b>
 - <b>Resource Groups</b>
 - <b>Virtual Networks</b>
 - <b>Virtual Machines</b>
 
-<h2>Technical Walk-through:</h2>
+<h2>Executive Summary</h2>
+
+
+<h2>Technical Walkthrough:</h2>
 
 <h3>Configuring Virtual Networks</h3>
 
