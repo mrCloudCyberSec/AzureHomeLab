@@ -31,11 +31,9 @@ The project consists of building three virtual networks (VNet) and two virtual m
 <h2>Executive Summary</h2>
 
 
-<h2>Technical Walkthrough:</h2>
+<h2>Technical Walkthrough</h2>
 
-<h3>Configuring Virtual Networks</h3>
-
-<h4>Creating a Resource Group</h4>
+<h3>Creating a Resource Group</h3>
 
 - After logging into Microsoft Azure in portal.azure.com search for "resource group" in the search bar
 - Click on "resource group" and click on create at the top left hand corner
@@ -47,6 +45,8 @@ The project consists of building three virtual networks (VNet) and two virtual m
 
 - Click on "Review + Create" and wait for validation to pass
 - Once validation has been passed, click on create and wait for the resource group to deploy.
+
+<h3>Configuring Virtual Networks</h3>
 
 <h4>Creating a Virtual Network</h4>
 
@@ -63,7 +63,7 @@ The project consists of building three virtual networks (VNet) and two virtual m
 - Set a desired IP Address space for the virtual network
 <img src="https://i.imgur.com/n3DpDPQ.png">
 
-<h5>Creating a Virtual Network subnet</h5>
+<h4>Creating a Virtual Network subnet</h4>
 
 - Click on "Add a subnet" and the side window would appear to create a subnet
 - Adding the following details to the subnet:
